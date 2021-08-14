@@ -8,6 +8,12 @@ const emojiMap = {
   "🐫": "Two-hump Camel",
   "☘": "Shamrock",
   "🥐": "Croissant",
+  "🖖🏻": "Vulcan Salute",
+  "🙆🏽‍♀️" : "Woman Gesturing OK",
+  "😀" : "Grinning Face",
+  "🧖‍♂️":"Man in Steamy Room",
+  "🦹🏾‍♂️":"Man Supervillain"
+
 };
 
 const emojiKeys = Object.keys(emojiMap);
